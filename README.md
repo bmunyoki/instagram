@@ -1,6 +1,9 @@
-[![Latest Version on Packagist][ico-version]][link-packagist]
-[![Total Downloads][ico-downloads]][link-downloads]
-[![Build Status][ico-travis]][link-travis]
+[![Latest Stable Version](https://poser.pugx.org/bmunyoki/instagram/v/stable)](https://packagist.org/packages/bmunyoki/instagram)
+[![Total Downloads](https://poser.pugx.org/bmunyoki/instagram/downloads)](https://packagist.org/packages/bmunyoki/instagram)
+[![Latest Unstable Version](https://poser.pugx.org/bmunyoki/instagram/v/unstable)](https://packagist.org/packages/bmunyoki/instagram)
+[![License](https://poser.pugx.org/bmunyoki/instagram/license)](https://packagist.org/packages/bmunyoki/instagram)
+[![Monthly Downloads](https://poser.pugx.org/bmunyoki/instagram/d/monthly)](https://packagist.org/packages/bmunyoki/instagram)
+[![Daily Downloads](https://poser.pugx.org/bmunyoki/instagram/d/daily)](https://packagist.org/packages/bmunyoki/instagram)
 
 ## Instagram
 
