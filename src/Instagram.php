@@ -51,6 +51,9 @@
 			]);
 
 			$this->fbHelper = $this->fb->getRedirectLoginHelper();
+			if (isset($_GET['state'])) {
+			    $this->fbHelper->getPersistentDataHandler()->set('state', $_GET['state']);
+			}
 	    }
 
 	    /**
