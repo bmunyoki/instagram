@@ -26,8 +26,8 @@ To contribute, get in touch with munyokibenjamin@gmail.com
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Benjamin Munyoki via [munyokibenjamin@gmail.com](mailto:munyokibenjamin@gmail.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within this package, please send an e-mail to Benjamin Munyoki via [munyokibenjamin@gmail.com](mailto:munyokibenjamin@gmail.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+This package is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
