@@ -3,7 +3,6 @@
 	namespace bmunyoki\Instagram;
 
 	use Illuminate\Support\Facades\Log;
-	use bmunyoki\Instagram\PersistentData\LaravelPersistentDataHandler;
 
 	class Instagram {
 	    /*
@@ -48,8 +47,7 @@
 			$this->fb = new \Facebook\Facebook([
 			    'app_id' => $this->app_id,
 			    'app_secret' => $this->app_secret,
-			    'default_graph_version' => 'v3.3',
-			    'persistent_data_handler' => new LaravelPersistentDataHandler()
+			    'default_graph_version' => 'v3.3'
 			]);
 
 			$this->fbHelper = $this->fb->getRedirectLoginHelper();
